@@ -65,3 +65,4 @@ SQL is used for administrative tasks such as creating, updating, and backing up 
 SQL is widely accepted as an industry standard. Many major database management systems (DBMS) support the SQL language, allowing software developers and database administrators to use it across a broad spectrum.
 
 ### SQL has become an indispensable tool for managing databases and manipulating data. It has become a crucial skill for software developers and database administrators at all levels. This powerful language simplifies database management while enabling the development of data-focused applications.
+
